@@ -20,13 +20,13 @@ Follow these steps to install the custom application:
 Open your terminal and run the following command to clone the repository:
 
 ```
-git clone https://github.com/PayDock/e-commerce-powerboard-commercetools-app
+git clone https://github.com/CommBank-PowerBoard/powerboard-e-commerce-commercetools-app
 ```
 
 Navigate to the project directory:
 
 ```
-cd e-commerce-powerboard-commercetools-app
+cd powerboard-e-commerce-commercetools-app
 ```
 
 ### 2 . Install dependencies
@@ -54,12 +54,12 @@ Start the application by running the following command:
 npm start
 ```
 
-The application should now be running on http://your_domain:3000.
+The application should now be running on http://your_domain:3000
 
 ## Usage
 To use the custom application:
 
-1. Open your browser and navigate to http://your_domain:3000.
+1. Open your browser and navigate to http://your_domain:3000
 2. Log in with your Commercetools account credentials.
 3. Follow the on-screen instructions to use the application features.
 
