@@ -39,8 +39,6 @@ Customization options for the PowerBoard widget include:
 The application allows you to view logs of all payments.
 ![log.png](docs%2Flog.png)
 
-This guide provides instructions on how to install and set up the "PowerBoard" custom application for Commercetools.
-
 
 This guide provides instructions on how to install and set up the "PowerBoard " custom application for Commercetools.
 
