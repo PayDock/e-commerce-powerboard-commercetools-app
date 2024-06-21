@@ -1,5 +1,47 @@
 # PowerBoard  Commercetools Custom Application
 
+## Overview
+
+This application allows you to set up connections to the PowerBoard API (both live and sandbox connections), manage orders created via PowerBoard, and customize the PowerBoard widget styles.
+
+### Setup Connections to PowerBoard API
+With this application, you can set up connections to the PowerBoard API for both live and sandbox environments:
+- Public Key
+- Secret Key
+- Supported Card Schemes
+- Gateway ID
+- Other configurations...
+
+![configuration.png](docs%2Fconfiguration.png)
+
+### Manage Orders
+The application allows you to manage orders created via PowerBoard:
+- View orders
+- Change order status
+- Other actions...
+
+![orders.png](docs%2Forders.png)
+
+
+### Customize PowerBoard Widget Styles
+Customization options for the PowerBoard widget include:
+- Background color
+- Size
+- Color
+- Text
+- Other  settings...
+
+
+![style-configuration.png](docs%2Fstyleconfiguration.png)
+
+
+### View Payment Logs
+The application allows you to view logs of all payments.
+![log.png](docs%2Flog.png)
+
+This guide provides instructions on how to install and set up the "PowerBoard" custom application for Commercetools.
+
+
 This guide provides instructions on how to install and set up the "PowerBoard " custom application for Commercetools.
 
 
@@ -68,4 +110,4 @@ To use the custom application:
 This project is licensed under the MIT License. See the [LICENSE](https://rem.mit-license.org/+MIT)  file for details.
 
 ## Contact
-If you have any questions or need further assistance, please contact [Professional Services](https://paydock.com/) .
+If you have any questions or need further assistance, please contact [Professional Services](https://PowerBoard.com/) .
